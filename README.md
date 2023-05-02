@@ -42,6 +42,12 @@ php -S localhost:8000 -t public
 
 Acesse o sistema no navegador através do endereço http://localhost:8000
 
+#### CRUD Pessoas:
+http://localhost:8000/pessoas
+
+#### CRUD Contatos
+http://localhost:8000/contatos
+
 ## Testes
 Para executar os testes, utilize o PHPUnit:
 
